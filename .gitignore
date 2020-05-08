@@ -2,6 +2,7 @@
 .vscode/
 node_modules/
 build/
+http/
 temp/
 
 tmp/*
